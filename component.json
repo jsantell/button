@@ -1,0 +1,31 @@
+{
+  "name": "button",
+  "author": "Jordan Santell",
+  "description": "A UI on/off button component",
+  "version": "0.0.1",
+  "keywords" : [
+    "button",
+    "switch",
+    "boolean",
+    "ui"
+  ],
+  "dependencies": {
+    "component/domify": "*",
+    "component/event": "*",
+    "component/emitter": "*",
+    "component/classes": "*"
+  },
+  "development": {
+    "manuelstofer/each": "*"
+  },
+  "scripts": [
+    "index.js",
+    "template.js"
+  ],
+  "styles": [
+    "button.css"
+  ],
+  "license": "MIT",
+  "repo": "jsantell/button",
+  "twitter": "@jsantell"
+}
