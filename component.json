@@ -2,7 +2,7 @@
   "name": "button",
   "author": "Jordan Santell",
   "description": "A UI on/off button component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords" : [
     "button",
     "switch",
@@ -10,7 +10,7 @@
     "ui"
   ],
   "dependencies": {
-    "component/domify": "*",
+    "component/domify": "1.0.0",
     "component/event": "*",
     "component/emitter": "*",
     "component/classes": "*"

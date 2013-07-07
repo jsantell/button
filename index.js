@@ -51,7 +51,7 @@ function Button (input, value) {
  */
 
 Button.prototype.render = function () {
-  this.el = domify(template)[0];
+  this.el = domify(template);
   return this;
 };
 
